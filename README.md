@@ -1,16 +1,16 @@
-#HOLA 👋
+# HOLA 👋
 
 Mi nombre es Conrad Meyer-Alten
 
-💥 Junior Full Stack Developer 💥
+💥 ### Junior Full Stack Developer 💥
 
-##Sobre mí 
+## Sobre mí 
 
 Soy gallego afincado en Madrid. Estudié empresariales y posteriormente Marketing Digital, siempre me interesé mucho por la tecnología y la innovación, hasta que acabé metiendome de lleno en ella 😄 Podéis ehcarle un vistazo a mis repositorios, pero sed benévolos, aún estoy comenzando en este maravilloso mundo! 🤩
 
 Os dejo aquí abajo información sobre mí algo más técnica 🔽
 
-##Tecnologías 🛠
+## Tecnologías 🛠
 
 - JavaScript
 - Nodejs
@@ -26,7 +26,7 @@ Os dejo aquí abajo información sobre mí algo más técnica 🔽
 - Firebase 
 - VS Code
 
-##Soft skills ⚡
+## Soft skills ⚡
 
     Resolutivo ante los problemas.
     Autonomía con los desafíos.
@@ -40,4 +40,4 @@ Si quieres saber más de mi no dudes en ponerte en contacto contigo 😄
   👉 LinkedIn: www.linkedin.com/in/conrad-meyer-alten-rodríguez
   👉 Email: meyeralten@gmail.com
 
-https://gph.is/g/4VnyJMg
+https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif
