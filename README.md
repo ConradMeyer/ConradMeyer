@@ -42,7 +42,7 @@ Os dejo aquí abajo información sobre mí algo más técnica 🔽
  
 Si quieres saber más de mi no dudes en ponerte en contacto contigo 😄
 
-    👉 LinkedIn: www.linkedin.com/in/conrad-meyer-alten-rodríguez
-    👉 Email: meyeralten@gmail.com
+👉 LinkedIn: www.linkedin.com/in/conrad-meyer-alten-rodríguez
+👉 Email: meyeralten@gmail.com
 
 ![ Alt text](https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif)
