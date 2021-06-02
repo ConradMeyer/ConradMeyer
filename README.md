@@ -12,19 +12,19 @@ Os dejo aquí abajo información sobre mí algo más técnica 🔽
 
 Tecnologías 🛠
 
-  JavaScript
-  Nodejs
-  Expressjs 
-  React 
-  HTML5 
-  CSS3  
-  MongoDB 
-  MySQL
-  Docker
-  Git 
-  GitHub
-  Firebase 
-  VS Code
+    JavaScript
+    Nodejs
+    Expressjs 
+    React 
+    HTML5 
+    CSS3  
+    MongoDB 
+    MySQL
+    Docker
+    Git 
+    GitHub
+    Firebase 
+    VS Code
 
 Soft skills ⚡
 
