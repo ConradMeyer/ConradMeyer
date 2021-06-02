@@ -45,4 +45,4 @@ Si quieres saber más de mi no dudes en ponerte en contacto contigo 😄
   👉 LinkedIn: www.linkedin.com/in/conrad-meyer-alten-rodríguez
   👉 Email: meyeralten@gmail.com
 
-<iframe src="https://giphy.com/embed/jfF6mIPumEzN9QW0kL" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/startup-inovacao-startaideia-jfF6mIPumEzN9QW0kL">via GIPHY</a></p>
+![ Alt text](https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif)
